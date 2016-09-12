@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">VhicalOwnerAlert</string>
+    <string-array name="state_code_arrays">
+        <item>AN</item>
+        <item>AP</item>
+        <item>AR</item>
+        <item>AS</item>
+        <item>AN</item>
+        <item>BR</item>
+        <item>CG</item>
+        <item>CH</item>
+        <item>DD</item>
+        <item>DL</item>
+        <item>DN</item>
+        <item>GA</item>
+        <item>GJ</item>
+        <item>HR</item>
+        <item>HP</item>
+        <item>JH</item>
+        <item>JK</item>
+        <item>KA</item>
+        <item>KL</item>
+        <item>LD</item>
+        <item>MH</item>
+        <item>ML</item>
+        <item>MN</item>
+        <item>MP</item>
+        <item>MZ</item>
+        <item>NL</item>
+        <item>OD</item>
+        <item>PB</item>
+        <item>PY</item>
+        <item>RJ</item>
+        <item>SK</item>
+        <item>TN</item>
+        <item>TR</item>
+        <item>TS</item>
+        <item>UK</item>
+        <item>UP</item>
+        <item>WB</item>
+        <item>OR</item>
+        <item>UA</item>
+    </string-array>
+</resources>

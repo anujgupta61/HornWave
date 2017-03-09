@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/logo1.jpg",
+        "source": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/src/main/res/mipmap-xhdpi/logo1.jpg"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/new_logo.jpg",
+        "source": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/src/main/res/mipmap-xhdpi/new_logo.jpg"
+    }
+]

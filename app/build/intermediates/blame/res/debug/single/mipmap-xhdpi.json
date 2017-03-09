@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/mipmap-xhdpi/share_qr.png",
+        "source": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/src/main/res/mipmap-xhdpi/share_qr.png"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
+        "source": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/src/main/res/mipmap-xhdpi/logo.png"
+    }
+]

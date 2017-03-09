@@ -1,6 +1,29 @@
 <resources>
-    <string name="app_name">VhicalOwnerAlert</string>
+    <string name="app_name">Hornwave</string>
+    <string name="notification">Send Notification Here</string>
+    <string name="emergency_logo">Emergency_Logo</string>
+    <string name="send_alert">SEND ALERT</string>
+    <string name="app_logo">App logo</string>
+    <string name="india"> India</string>
+    <string name="made_for">Made for </string>
+    <string name="vehicle_number">Vehicle Number *</string>
+    <string name="your_message">Your Message</string>
+    <string name="made_in">Made in </string>
+    <string name="company_name">PNT Agencies</string>
+    <string name="social">Social Initiative by</string>
+    <string name="referral">Referral</string>
+    <string name="register_your_vehicle">Register Your Vehicle</string>
+    <string name="name">Your Name *</string>
+    <string name="contact_number">Contact Number *</string>
+    <string name="register">Register</string>
+    <string name="range">Area of alert in meters …</string>
+    <string name="guide_ambulance">Give way to AMBULANCE towards ___ from ___</string>
+    <string name="qr">Scan above QR code to download this app</string>
+    <string name="share">or share the link with friends</string>
+    <string name="click_below">Click Below</string>
+    <string name="shared">share</string>
     <string-array name="state_code_arrays">
+        <item>Select your state</item>
         <item>AN</item>
         <item>AP</item>
         <item>AR</item>

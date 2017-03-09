@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/anuj/.android/build-cache/bea8d0292312bb4879b583bed5119fe1bbccee38/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/anuj/.android/build-cache/bea8d0292312bb4879b583bed5119fe1bbccee38/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/VhicalOwnerAlert/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/anuj/.android/build-cache/bea8d0292312bb4879b583bed5119fe1bbccee38/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
